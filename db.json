@@ -1,0 +1,23 @@
+{
+  "tasks": [
+    {
+      "id":"1", 
+      "text":"React lernen", 
+      "day":"monday",
+      "reminder":"true"
+    },
+    {
+      "id":"2", 
+      "text":"Kaffee kaufen ", 
+      "day":"monday",
+      "reminder":"false"
+    },
+    {
+      "id":"3", 
+      "text":"Yoga", 
+      "day":"monday",
+      "reminder":"true"
+    }
+   
+  ]
+}
